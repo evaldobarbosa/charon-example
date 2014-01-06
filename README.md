@@ -1,4 +1,6 @@
-charon-example
+Charon Example
 ==============
 
-An example of charon
+Clone the project
+Configure your document root to public folder
+Restart apache
