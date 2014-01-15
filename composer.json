@@ -2,7 +2,7 @@
 	"require": {
 		"php": ">=5.3",
 		"respect/rest": "@stable",
-		"evaldobarbosa/charon": "0.2.*@dev",
+		"evaldobarbosa/charon": "0.4.*@dev",
 		"evaldobarbosa/sanitizer": "0.1.*@dev"
 	},
 	"config": { "bin-dir": "bin" },
