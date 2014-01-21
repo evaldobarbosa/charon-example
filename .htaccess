@@ -1,0 +1,5 @@
+Options +FollowSymlinks
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !\.(gif|jpg|png)$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule (.*) /public/index.php [L]
